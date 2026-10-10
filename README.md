@@ -6,7 +6,7 @@ Materiais complementares ao trabalho entregue em PDF.
 |---|---|
 | Grupo 1 — Mapa conceitual (alta resolução) | [`mapa_conceitual.pdf`](mapa_conceitual.pdf) |
 | Grupo 2 — Código Java + testes JUnit 5 | [`calculo-ir/`](calculo-ir) |
-| Grupo 3 — Planilha de testes de sistema | [`planilha_testes_sistema.xlsx`](planilha_testes_sistema.xlsx) |
+| Grupo 3 — Planilha de testes de sistema (modelo do Teams) | [`planilha_teste_efetuar_pedido.xls`](planilha_teste_efetuar_pedido.xls) |
 
 ## Grupo 2 — como executar os testes
 
